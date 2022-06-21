@@ -15,3 +15,7 @@ G - Tropical Birds (For something more quiet and peaceful than music)
 
 -GOAL-    
 Move around to "catch the carrot" by running to it. Avoid the bear in the process. If he "catches" you, or also means by him touching the rabbit, you will have to restart. Gain 25 points to win the game. Each "catch" of the carrot is worth 1 point. You will have 150 seconds (2.50 minutes) to complete the game.
+
+
+
+Link to game on Scratch: https://scratch.mit.edu/projects/429204751/
