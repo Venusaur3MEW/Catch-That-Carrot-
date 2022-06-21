@@ -1,4 +1,6 @@
-# Catch-That-Carrot- Move - Arrow Keys or WASD
+# Catch-That-Carrot
+
+Move - Arrow Keys or WASD
 
 Change Music - B, C, E, F, G 
 Mute Music - Mute your computer sound
