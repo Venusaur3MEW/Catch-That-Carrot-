@@ -21,3 +21,5 @@ Move around to "catch the carrot" by running to it. Avoid the bear in the proces
 Go to this link to play from Github: https://venusaur3mew.github.io/Catch-That-Carrot-/
 
 Link to game on Scratch: https://scratch.mit.edu/projects/429204751/
+
+Follow my Account: https://scratch.mit.edu/users/CrocagatorFight/
